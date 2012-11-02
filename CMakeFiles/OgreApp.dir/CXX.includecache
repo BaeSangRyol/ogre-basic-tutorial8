@@ -6,10 +6,6 @@
 
 #IncludeRegexTransform: 
 
-/home/vk/Games/ogre3d/ogre-basic-tutorial8/BaseApplication.cpp
-BaseApplication.h
-/home/vk/Games/ogre3d/ogre-basic-tutorial8/BaseApplication.h
-
 /home/vk/Games/ogre3d/ogre-basic-tutorial8/BaseApplication.h
 OgreCamera.h
 -
